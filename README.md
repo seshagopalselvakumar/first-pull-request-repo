@@ -16,10 +16,10 @@
 The first step you want to do in-order to contribute to an open source project is to **_fork_** the project. This will create a copy of the project under your account.<br>
 You'll see the fork option on the top right hand side of the screen.
 - Click on the fork button.
-<details open>
-  <summary>Fork Button Image</summary>
-    <img src="https://github.com/seshagopalselvakumar/first-pull-request-repo/blob/master/Resources/forkimage.PNG" alt="fork button Image">
-</details>
+
+<h4>Fork Button Image</h4>
+<img src="https://github.com/seshagopalselvakumar/first-pull-request-repo/blob/master/Resources/forkimage.PNG" alt="fork button Image">
+
 
 ### Step 2
 Now, you have to clone the forked repository. This will create a local copy of the project on your machine.

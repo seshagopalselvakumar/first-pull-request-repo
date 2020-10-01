@@ -137,14 +137,14 @@ Now open your github account to make a pull request.
 - Click on compare and pull request.
 
 <div align="center">
-  <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/pr1.PNG" alt="pr button">
+  <img src="https://github.com/seshagopalselvakumar/first-pull-request-repo/blob/master/Resources/pull%20request%20available.PNG" alt="pr button">
 </div>
 <br>
 
 - Write a meaningful description and click on Create Pull Request.
 
 <div align="center">
-  <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/pr2.PNG">
+  <img src="https://github.com/seshagopalselvakumar/first-pull-request-repo/blob/master/Resources/Submit%20PR.PNG">
 </div>
 
 <h2 align="center">Congratulations! You just created your first pull request🥳</h2>
